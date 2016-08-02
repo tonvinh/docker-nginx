@@ -1,2 +1,3 @@
 # docker-nginx
-Docker for ngnix
+Docker for nginx
+Read here https://hub.docker.com/_/nginx/
